@@ -20,8 +20,8 @@
 <br>
 
 - 🔭 I’m currently working on **FRONTEND DEVELOPER**
-- 👯 I’m looking to collaborate on **HTML, CSS, JAVASCRIPT**
-- 🌱 I’m currently learning **PHP**
+- 👯 I’m looking to collaborate on **HTML, CSS, JAVASCRIPT, LARAVEL, PHP, ANGULAR**
+- 🌱 I’m currently learning **C#**
 - 📫 How to reach me **(ZAYANAHMEDSIDDIQUI21@gmail.com)**
 - 🏦 I’m currently open for an Intern or a new job opportunity, this is [my resume]
 
@@ -48,8 +48,9 @@
     
      ![Bootstrap](https://img.shields.io/badge/bootstrap-%232370ED.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
      ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-%232370ED.svg?style=for-the-badge&logo=Tailwindcss&logoColor=white)
+     ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 
-   
+
 
 <br>  
 
@@ -60,11 +61,17 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Web Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![WordPress](https://img.shields.io/badge/WordPress-%232C3E50.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+   ![PHP](https://img.shields.io/badge/PHP-%23777BB5.svg?style=for-the-badge&logo=PHP&logoColor=white)
+   ![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?style=for-the-badge&logo=Angular&logoColor=white)
+   ![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+   ![C#](https://img.shields.io/badge/C%23-%232F7D90.svg?style=for-the-badge&logo=CSharp&logoColor=white)
+
 
 <br>
 
