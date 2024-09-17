@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on **HTML, CSS, JAVASCRIPT, LARAVEL, PHP, ANGULAR**
 - 🌱 I’m currently learning **C# , ASP.NET**
 - 📫 How to reach me **(ZAYANAHMEDSIDDIQUI21@gmail.com)**
-- 🏦 I’m currently open for an Intern or a new job opportunity, this is [my resume]
+- 🏦 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://res.cloudinary.com/read-cv/image/upload/c_limit,h_2048,w_2048/v1/1/profileItems/EJEcni9TZdTExoNfd2oAv9ehIyh1/newProfileItem/05bf35b7-112c-46a1-98c6-e64ee77727a1.jpg?_a=DATAdtAAZAA0)
 
 <br><br>
 
