@@ -19,9 +19,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **FRONTEND DEVELOPER**
+- 🔭 I’m currently working on **WEB DEVELOPMENT**
 - 👯 I’m looking to collaborate on **HTML, CSS, JAVASCRIPT, LARAVEL, PHP, ANGULAR**
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# , ASP.NET**
 - 📫 How to reach me **(ZAYANAHMEDSIDDIQUI21@gmail.com)**
 - 🏦 I’m currently open for an Intern or a new job opportunity, this is [my resume]
 
