@@ -159,9 +159,4 @@
 <br>
 <br>
 
-<div align='center'>
 
-## <b>✨----THANKS FOR VISITING TO MY PROFILE ----✨</b>
-
-</div>
- 
